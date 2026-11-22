@@ -1,7 +1,7 @@
 # TogglePin
 
-[![Latest Release](https://shields.io)](https://github.com)
-[![License: MIT](https://shields.io)](LICENSE)
+[![Latest Release]( + https:// + img.shields.io/github/v/release/simulator7/TogglePin)]( + https:// + ://github.com)
+[![License: MIT]( + https:// + img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A lightweight, zero-install Windows utility to toggle any application window **Always on Top** with a single click—using only built-in PowerShell and Win32 APIs.
 
