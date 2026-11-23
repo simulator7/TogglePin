@@ -40,5 +40,8 @@ A lightweight, zero-install Windows utility to toggle any application window **A
 ## Contributing
 Suggestions and improvements are welcome! Feel free to open an **Issue** or submit a **Pull Request**.
 
+## Acknowledgments
+Developed with coding, debugging, and Win32 API review assistance from **Google AI Mode** and further co-supervised by **OpenAI ChatGPT** (free tier, standard non-thinking model).
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
