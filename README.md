@@ -37,5 +37,8 @@ A lightweight, zero-install Windows utility to toggle any application window **A
 ## Limitations
 - Windows security restrictions (UIPI) prevent standard-privilege processes from modifying the z-order of windows running as **Administrator** (such as Task Manager).
 
+## Contributing
+Suggestions and improvements are welcome! Feel free to open an **Issue** or submit a **Pull Request**.
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
