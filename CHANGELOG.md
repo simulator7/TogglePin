@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org).
 
 ## [Unreleased]
 
-## - 2026-11-23
+## v1.0.0 - 2026-11-23
 ### Added
 - Initial release of `TogglePin.bat` and `TogglePin.ps1`.
 - Click-to-target window selection using cursor hit-testing (`WindowFromPoint` and `GetAncestor` with `GA_ROOT`).
